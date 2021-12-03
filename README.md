@@ -1,6 +1,9 @@
 # Python links
 List based on course *[100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/)*
 
+## Python Developer's Guide (PEP)
+- [Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
 ## Community help
 - https://stackoverflow.com/questions/tagged/python
 
